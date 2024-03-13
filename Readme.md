@@ -15,7 +15,7 @@
 **Proje Ekibi:** Ali, Veli, Selami, Ayşe, Fatma, Hayriye
 
 1. [Proje Planı](Proje-Planı)
-2. [Gereksinim Analizi](Gereksinim-Analizi)
+2. [Gereksinim Analizi](Gereksinim-Analizi.md)
 3. [Durum Diyagramı](Durum-Diyagramı)
 4. [Durum Senaryoları](Durum-Senaryoları)
 5. [Veritabanı Diyagramı](Veritabanı-Diyagramı)
