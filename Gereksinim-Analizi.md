@@ -6,6 +6,6 @@ Tüm gereksinimlerinizi çıkardıktan sonra beraber tartışıyoruz ve son gere
 3. .....
 
 # Gereksinim Dağılımları
-1. [Ali Atabak'ın Gereksinimleri](Ali-Atabak-Gereksinimler)
-2. [Ayşe Topu Tut'nn Gereksinimleri](Ali-Atabak-Gereksinimler)
+1. [Ali Atabak'ın Gereksinimleri](Ali-Atabak-Gereksinimler.md)
+2. [Ayşe Topu Tut'nn Gereksinimleri](Ali-Atabak-Gereksinimler.md)
 3. ........
