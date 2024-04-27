@@ -1,4 +1,4 @@
-Tasarıma ulaşmayı sağlayacak web adresi linki ya da çekilen Youtube videosu linki eklenmelidir.
+Tasarım linki: [www.tasarimlinki.com](www.tasarimlinki.com)
 
 # Ali Atabin Tasarımlar #
 1. Kayıt Ol
@@ -8,7 +8,6 @@ Tasarıma ulaşmayı sağlayacak web adresi linki ya da çekilen Youtube videosu
 5. .....
 6. ....
 
-Tasarım Linki
 
 # Ayşe Toputut Tasarımlar #
 1. ....
@@ -17,5 +16,3 @@ Tasarım Linki
 4. ....
 5. ....
 6. ....
-
-Tasarım Linki
