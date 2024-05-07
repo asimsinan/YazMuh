@@ -1,4 +1,4 @@
-Hangi gereksinimler için test kodu yazdıysanız aşağıda belirtin. Testlere ait video linkini ekleyin.
+Hangi gereksinimler için test kodu yazdıysanız aşağıda belirtin. Derste anlattığım test türlerin (Unit Test ya da Postman ile API Testi olabilir) birini seçip yapabilirsiniz. Testlere ait video linkini ekleyin.
 
 # Ali Atabin Test #
 1. Kayıt Ol
