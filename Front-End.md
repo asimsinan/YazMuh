@@ -1,7 +1,5 @@
 React/Vue/Angular Çatısı Kullanıldı ya da Herhangi bir çatı kullanılmadı şeklinde belirtin.
 
-Tasarım linki: [www.tasarimlinki.com](www.tasarimlinki.com)
-
 # Ali Atabin Tasarımlar #
 1. Kayıt Ol
 2. Giriş Yap
