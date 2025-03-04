@@ -1,1 +1,0 @@
-Proje planınızı aşağıya resim olarak ekleyiniz. Planı hazırlamak için [https://online.officetimeline.com](https://online.officetimeline.com) adresindeki aracı kullanabilirsiniz.
