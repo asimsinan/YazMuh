@@ -14,13 +14,9 @@
 
 **Proje Ekibi:** Ali, Veli, Selami, Ayşe, Fatma, Hayriye
 
-1. [Proje Planı](Proje-Planı.md)
-2. [Gereksinim Analizi](Gereksinim-Analizi.md)
-3. [Durum Diyagramı](Durum-Diyagramı.md)
-4. [Durum Senaryoları](Durum-Senaryoları.md)
-5. [Veritabanı Diyagramı](Veritabanı-Diyagramı.md)
-6. [Front-End](Front-End.md)
-7. [Back-End](Back-End.md)
-8. [Test](Test.md)
-9. [Geliştirici ve Kullanıcı Dokümantasyonları](Geliştirici-ve-Kullanıcı-Dokümantasyonları.md)
+1. [Gereksinim Analizi](Gereksinim-Analizi.md)
+2. [Durum Diyagramı](Durum-Diyagramı.md)
+3. [Durum Senaryoları](Durum-Senaryoları.md)
+4. [Front-End](Front-End.md)
+5. [Back-End](Back-End.md)
 
