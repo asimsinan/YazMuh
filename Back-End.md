@@ -1,7 +1,11 @@
+Domain Adresi: domainadresi.com
 Docker: Kullanılmadı/Kullanıldı.
 REST API: Kullanıldı/Kullanılmadı.
+Redis:Kullanıldı/Kullanılmadı.
+RabbitMQ: Kullanıldı/Kullanılmadı.
+CI/CD: Kullanıldı/Kullanılmadı.
 
-# Ali Atabin Kodlama #
+# Ali Atabin Backend #
 1. Kayıt Ol
 2. Giriş Yap
 3. 2FA Sayfası
@@ -9,6 +13,6 @@ REST API: Kullanıldı/Kullanılmadı.
 5. .....
 
 
-# Ayşe Toputut Kodlama #
+# Ayşe Toputut Backend #
 1. ....
 2. ....
