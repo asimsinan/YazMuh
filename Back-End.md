@@ -1,8 +1,13 @@
 Domain Adresi: domainadresi.com
+
 Docker: Kullanılmadı/Kullanıldı.
+
 REST API: Kullanıldı/Kullanılmadı.
+
 Redis:Kullanıldı/Kullanılmadı.
+
 RabbitMQ: Kullanıldı/Kullanılmadı.
+
 CI/CD: Kullanıldı/Kullanılmadı.
 
 # Ali Atabin Backend #
