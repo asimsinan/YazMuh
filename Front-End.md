@@ -1,6 +1,6 @@
 React/Vue/Angular Çatısı Kullanıldı ya da Herhangi bir çatı kullanılmadı şeklinde belirtin.
 
-# Ali Atabin Tasarımlar #
+# Ali Atabin Frontend #
 1. Kayıt Ol
 2. Giriş Yap
 3. 2FA
@@ -9,7 +9,7 @@ React/Vue/Angular Çatısı Kullanıldı ya da Herhangi bir çatı kullanılmad�
 6. ....
 
 
-# Ayşe Toputut Tasarımlar #
+# Ayşe Toputut Frontend #
 1. ....
 2. ....
 3. ....
