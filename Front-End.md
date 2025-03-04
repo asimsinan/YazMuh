@@ -1,4 +1,4 @@
-React/Vue/Angular Çatısı Kullanıldı ya da Herhangi bir çatı kullanılmadı şeklinde belirtin.
+Frontend'i yayınladığınız domain adresi: http://frontend.com
 
 # Ali Atabin Frontend #
 1. Kayıt Ol
