@@ -1,0 +1,59 @@
+openapi: 3.0.0
+info:
+  title: Hotel Management API
+  version: 1.0.0
+  description: Otel yönetim sistemi için API tasarımı
+
+paths:
+
+  /rooms:
+    get:
+      summary: Tüm odaları listele
+      responses:
+        '200':
+          description: Oda listesi döner
+
+    post:
+      summary: Yeni oda ekle
+      responses:
+        '201':
+          description: Oda oluşturuldu
+
+  /rooms/{id}:
+    put:
+      summary: Oda bilgilerini güncelle
+      responses:
+        '200':
+          description: Oda güncellendi
+
+    delete:
+      summary: Oda sil
+      responses:
+        '200':
+          description: Oda silindi
+
+  /customers:
+    get:
+      summary: Müşterileri listele
+      responses:
+        '200':
+          description: Müşteri listesi
+
+    post:
+      summary: Yeni müşteri ekle
+      responses:
+        '201':
+          description: Müşteri oluşturuldu
+
+  /reservations:
+    get:
+      summary: Rezervasyonları listele
+      responses:
+        '200':
+          description: Rezervasyon listesi
+
+    post:
+      summary: Rezervasyon oluştur
+      responses:
+        '201':
+          description: Rezervasyon oluşturuldu
