@@ -1,12 +1,24 @@
 # Video Sunum
 
-## Sunum Videosu
+## CI-CD ve Docker Kanıt Videosu
+
+> **Video Linki:** [CI-CD ve Docker videosu linki buraya eklenecek](https://example.com)
+
+## RabbitMQ/Kafka Kanıt Videosu
+
+> **Video Linki:** [RabbitMQ/Kafka videosu linki buraya eklenecek](https://example.com)
+
+## Redis/Memcached Kanıt Videosu
+
+> **Video Linki:** [Redis/Memcached videosu linki buraya eklenecek](https://example.com)
+
+## Sunum Videosu (Cep Telefonunda Gösterilmeli, Tüm ekip bir arada)
 
 > **Video Linki:** [Sunum videosu linki buraya eklenecek](https://example.com)
 
 ---
 
-## Sunum Yapısı
+## Sunum Videosunda Neler Olmalı
 
 ### 1. Grup Lideri - Açılış Konuşması (1-2 dakika)
 
@@ -37,7 +49,7 @@ Her ekip üyesi için aşağıdaki yapı takip edilecektir:
 - Sorumlu olduğu gereksinimlerin listesi
 - Her gereksinimin kısa açıklaması
 - Canlı demo (ekran kaydı ile)
-- Her gereksinimin çalışır durumda olduğunun detaylı gösterilmesi
+- Her gereksinimin çalışır durumda olduğunun detaylı gösterilmesi (Vizede yaptığınız backende bağlı olmalı)
 - Her gereksinim için yeterli süre ayrılmalı (yaklaşık 1-1.5 dakika/gereksinim)
 
 ---
